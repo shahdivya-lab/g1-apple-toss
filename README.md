@@ -2,7 +2,7 @@
 
 A Unitree G1 humanoid (29-DoF body with Dex3 three-finger hands) picks an apple off a table with its right hand, turns it palm-up, tosses it in an arc and catches it in its left hand. The left hand re-plans the catch point every control tick from the apple's measured position and velocity, then cushions the impact.
 
-**ME206 course project** · Team: Divya Rahul Shah, Armaan Dixit, Om Mohan Pawar
+**ME206 assignment, Problem 3** · Team: Divya Rahul Shah, Armaan Dixit, Om Mohan Pawar
 
 - **Video:** <https://youtu.be/DhcrIo_bmR8>
 - **Repository:** <https://github.com/shahdivya-lab/g1-apple-toss>
